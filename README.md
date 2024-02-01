@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Veli.
-- 👀 I’m interested in Full-stack development with Java.
+- 👀 I’m interested in Full-stack development (Java/Kotlin/Angular).
 - 🌱 I’m currently learning anything new during my projects.
 - 💞️ I’m looking to collaborate on many things.
 - 📫 Reach me on www.linkedin.com/in/vali5
