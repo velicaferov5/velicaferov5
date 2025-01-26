@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Veli.
+- 👋 Hi, you can call me Veli
 - 👀 I’m interested in Full-stack development (Java/Kotlin/Angular).
-- 🌱 I’m currently learning anything new during my projects.
-- 💞️ I’m looking to collaborate on many things.
+- 🌱 I love learning as it is the key to explore the world and grow.
+- 💞️ I’m residing in NL and looking forward to collaborate on projects (including freelance).
 - 📫 Reach me on www.linkedin.com/in/vali5
 
 <!---
