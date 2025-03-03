@@ -1,5 +1,5 @@
 - 👋 Hi, you can call me Veli
-- 👀 I’m interested in Full-stack development (Java, Kotlin, Angular) & Machine Learning.
+- 👀 I’m interested in Full-stack engineering (Java, Kotlin, Angular) & Machine Learning.
 - 🌱 I love learning as it is the key to explore the world and grow.
 - 💞️ I’m residing in NL and looking forward to collaborate on projects (including freelance).
 - 📫 Reach me on www.linkedin.com/in/vali5
