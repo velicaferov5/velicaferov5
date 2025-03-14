@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-stack engineering (Java, Kotlin, Python, Angular, React) & Machine Learning.
 - 🌱 I love learning as it is the key to explore the World and grow.
 - 💞️ I’m residing in NL and looking forward to collaborate on projects (including freelance).
-- 📫 Reach me on www.linkedin.com/in/vali5
+- 📫 Feel free to connect via www.linkedin.com/in/vali5
 
 <!---
 velicaferov5/velicaferov5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
